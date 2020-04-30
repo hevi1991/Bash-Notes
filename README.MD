@@ -11,7 +11,7 @@
 - [变量](./Variable.md)
 - [字符串操作](./HandleString.md)
 - [算术运算](./Arithmetic.md)
-- [行操作](./Readline.md)
+- [行操作](https://wangdoc.com/bash/readline.html)
 - [目录堆栈](./DirectoryStack.md)
 - [脚本入门](./Script.md)
 - [read 命令](./Read.md)
@@ -24,7 +24,7 @@
 - [mktemp、trap 命令](./MktempAndTrapCommands.md)
 - [启动环境](https://wangdoc.com/bash/startup.html)
 
-脚本遇到权限问题，调用 `chmod` 命令
+脚本遇到权限问题，调用 `chmod` 命令。
 ```
 chmod +x ./scripts/*
 ```
